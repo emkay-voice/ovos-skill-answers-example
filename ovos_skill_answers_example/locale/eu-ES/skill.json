@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-answers-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-answers-example",
+  "name": "Zure erantzunak",
+  "description": "Zure galderak erantzuten ditu – non dauden giltzak, noiz biltzen duten zaborra – zuk idatzitako zerrenda batetik.",
+  "examples": [
+    "Non daude ordezko giltzak?",
+    "Noiz biltzen dute zaborra?"
+  ],
+  "tags": [
+    "common query",
+    "questions",
+    "answers",
+    "emkay"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-answers-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-answers-example",
+  "name": "Je eigen antwoorden",
+  "description": "Beantwoordt je eigen vragen – waar de sleutels zijn, wanneer het afval wordt opgehaald – uit een lijst die je zelf schrijft.",
+  "examples": [
+    "Waar zijn de reservesleutels?",
+    "Wanneer wordt het afval opgehaald?"
+  ],
+  "tags": [
+    "common query",
+    "questions",
+    "answers",
+    "emkay"
+  ]
+}

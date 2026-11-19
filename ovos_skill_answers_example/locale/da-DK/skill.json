@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-answers-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-answers-example",
+  "name": "Dine egne svar",
+  "description": "Svarer på dine egne spørgsmål – hvor nøglerne er, hvornår skraldet hentes – fra en liste, du selv skriver.",
+  "examples": [
+    "Hvor er reservenøglerne?",
+    "Hvornår bliver skraldet hentet?"
+  ],
+  "tags": [
+    "common query",
+    "questions",
+    "answers",
+    "emkay"
+  ]
+}

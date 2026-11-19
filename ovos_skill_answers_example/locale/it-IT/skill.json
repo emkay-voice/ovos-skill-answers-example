@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-answers-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-answers-example",
+  "name": "Le tue risposte",
+  "description": "Risponde alle tue domande – dove sono le chiavi, quando passa la spazzatura – da un elenco che scrivi tu.",
+  "examples": [
+    "Dove sono le chiavi di riserva?",
+    "Quando passa la spazzatura?"
+  ],
+  "tags": [
+    "common query",
+    "questions",
+    "answers",
+    "emkay"
+  ]
+}
